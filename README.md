@@ -1,5 +1,5 @@
 
-# Intermediate Data Structures and Algorithms Pracatice : 
+# Intermediate Data Structures and Algorithms  : 
 
 
 - Array Problems Technique
